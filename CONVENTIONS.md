@@ -8,8 +8,8 @@ Dit document beschrijft de codeconventie voor het C#-project Barroc. Intens
 
 ## Indentatie en Inspringing
 
-- Gebruik **vier spaties** om in te springen.
-- Vermijd het gebruik van tabs voor inspringing.
+- Gebruik  **tabs*** om in te springen.
+- Vermijd het gebruik van vier spaties voor inspringing.
 
 ## Stijlrichtlijnen
 
